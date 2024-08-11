@@ -13,3 +13,6 @@
 [submodule "src/python practice/parse parentheses"]
 	path = src/python practice/parse parentheses
 	url = https://github.com/githubprin/parse-parentheses.git
+[submodule "src/python practice/python concept camp"]
+	path = src/python practice/python concept camp
+	url = https://github.com/githubprin/python-camp.git
