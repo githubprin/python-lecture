@@ -7,3 +7,6 @@
 [submodule "src/python practice/level test"]
 	path = src/python practice/level test
 	url = https://github.com/githubprin/level-test.git
+[submodule "src/python practice/binary search"]
+	path = src/python practice/binary search
+	url = https://github.com/githubprin/binary-search.git
