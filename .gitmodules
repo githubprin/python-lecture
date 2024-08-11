@@ -1,3 +1,6 @@
 [submodule "src/python practice/tictactoe"]
 	path = src/python practice/tictactoe
 	url = https://github.com/githubprin/tictactoe.git
+[submodule "src/python practice/stock simulation"]
+	path = src/python practice/stock simulation
+	url = https://github.com/githubprin/stock-simulation.git
