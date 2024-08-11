@@ -4,3 +4,6 @@
 [submodule "src/python practice/stock simulation"]
 	path = src/python practice/stock simulation
 	url = https://github.com/githubprin/stock-simulation.git
+[submodule "src/python practice/level test"]
+	path = src/python practice/level test
+	url = https://github.com/githubprin/level-test.git
