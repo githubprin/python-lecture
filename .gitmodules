@@ -16,3 +16,6 @@
 [submodule "src/python practice/python concept camp"]
 	path = src/python practice/python concept camp
 	url = https://github.com/githubprin/python-camp.git
+[submodule "src/python practice/algorithm in python"]
+	path = src/python practice/algorithm in python
+	url = https://github.com/githubprin/algorithm-in-python.git
